@@ -12,7 +12,7 @@ Repository ini digunakan untuk menyimpan hasil praktikum mata kuliah **Pemrogram
 
 ---
 
-## 📂 Struktur Folder
+## Struktur Folder
 - **P1**  
   Berisi file praktikum pertemuan 1 (`index.html`).
 
@@ -22,3 +22,4 @@ Repository ini digunakan untuk menyimpan hasil praktikum mata kuliah **Pemrogram
 1. Clone repository ini:
    ```bash
    git clone https://github.com/Boas04/P-PBW-A-2025.git
+
