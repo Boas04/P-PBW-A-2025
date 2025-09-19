@@ -23,6 +23,10 @@ Repository ini digunakan untuk menyimpan hasil praktikum mata kuliah **Pemrogram
    ```bash
    git clone https://github.com/Boas04/P-PBW-A-2025.git
 
+## Bukti SS
+<img width="1423" height="902" alt="Image" src="https://github.com/user-attachments/assets/3897e68b-2dd2-4906-acfe-91fe7ee8abad" />
+
+---
 ### 1. `git init`
 Perintah untuk **menginisialisasi repository Git** di dalam folder lokal.  
 Dengan perintah ini, folder akan memiliki kontrol versi menggunakan Git.  
@@ -41,5 +45,7 @@ Digunakan untuk **menyimpan perubahan ke repository lokal** dengan memberikan pe
 Contoh:
 ```bash
 git commit -m "menambahkan file index.html"
+
+
 
 
