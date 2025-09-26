@@ -23,3 +23,5 @@ Aplikasi ini mencakup implementasi dari beberapa konsep dasar PHP, yaitu:
 **Contoh Pesan Error Validasi**
 *(Letakkan screenshot tampilan saat ada error validasi di sini)*
 <img width="1919" height="863" alt="Image" src="https://github.com/user-attachments/assets/54d79381-f0d6-4c4c-b206-4125c36fa79f" />
+<img width="1919" height="867" alt="Image" src="https://github.com/user-attachments/assets/a27d034b-75d8-413c-913b-4a7e8c54562e" />
+<img width="1919" height="867" alt="Image" src="https://github.com/user-attachments/assets/245be10d-e5a1-4aea-9fe3-bcdcae818051" />
