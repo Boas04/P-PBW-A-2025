@@ -14,13 +14,12 @@ Aplikasi ini mencakup implementasi dari beberapa konsep dasar PHP, yaitu:
 ## Tampilan Aplikasi
 
 **Tampilan Awal Form**
-*(Letakkan screenshot tampilan form sebelum di isi)*
-![Tampilan Form](<img width="1919" height="862" alt="Image" src="https://github.com/user-attachments/assets/8aacce44-4d73-4860-b78c-27ec721ef5c7" />)
+*(Letakkan screenshot tampilan form sebelum di isi)* 
+(<img width="1919" height="862" alt="Image" src="https://github.com/user-attachments/assets/8aacce44-4d73-4860-b78c-27ec721ef5c7" />)
 
 **Tampilan Setelah Pendaftaran Berhasil**
-*(Letakkan screenshot tampilan setelah berhasil submit data di sini)*
-![Tampilan Sukses](<img width="1919" height="866" alt="Image" src="https://github.com/user-attachments/assets/aeb7a601-87c0-4d78-9b4d-d7243cd38d6e" />)
+(<img width="1919" height="866" alt="Image" src="https://github.com/user-attachments/assets/aeb7a601-87c0-4d78-9b4d-d7243cd38d6e" />)
 
 **Contoh Pesan Error Validasi**
 *(Letakkan screenshot tampilan saat ada error validasi di sini)*
-![Tampilan Error](<img width="1919" height="863" alt="Image" src="https://github.com/user-attachments/assets/54d79381-f0d6-4c4c-b206-4125c36fa79f" />)
+(<img width="1919" height="863" alt="Image" src="https://github.com/user-attachments/assets/54d79381-f0d6-4c4c-b206-4125c36fa79f" />)
