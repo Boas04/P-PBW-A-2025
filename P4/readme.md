@@ -3,10 +3,7 @@
 ## Identitas Mahasiswa
 - **Nama:** Abner Boas Paskah Parningotan Gultom  
 - **NPM:** 4523210002 
-- **Mata Kuliah:** Pemrograman Berbasis 
-
-
-Web  
+- **Mata Kuliah:** Pemrograman Berbasis Web  
 - **Judul Praktikum:** Autentikasi Laravel  
 
 ---
